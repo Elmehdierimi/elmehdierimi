@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Software Development Practice (AlgoExpert)</b>
+  - [Active Directory Home Lab](https://github.com/Elmehdierimi/ActiveRepositoryLab)
 
 
 <h2>📺 Popular YouTube Videos</h2>
