@@ -25,7 +25,7 @@
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/elmehdierimi
-[linkedin]: https://www.linkedin.com/in/elmehdi-erimi
+[linkedin]: https://www.linkedin.com/in/elmehdi-erimi-2053372a3/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
